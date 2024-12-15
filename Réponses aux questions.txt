@@ -1,0 +1,13 @@
+Question 2 :
+Nombre de lignes dans metadata : 55
+
+Question 3 : 
+Etant donné que j'ai pris que 1% du dataset pour cause de "PC TROP FAIBLE" je suis à 34 038
+
+Question 4 :
+Du coup ma réponse est 33 175 lignes
+
+Question 5 : 
+Intercept du modèle: 2833626245177.099
+
+Question 6 : 
